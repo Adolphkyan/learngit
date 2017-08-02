@@ -1,1 +1,1 @@
-test delete0.
+test delete.
